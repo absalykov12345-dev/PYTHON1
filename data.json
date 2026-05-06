@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "amount": 5000,
+        "category": "Food",
+        "date": "2026-04-13",
+        "transaction_type": "expense",
+        "description": "Lunch"
+    },
+    {
+        "id": 2,
+        "amount": 20000,
+        "category": "Salary",
+        "date": "2026-04-13",
+        "transaction_type": "income",
+        "description": "Job"
+    },
+    {
+        "id": 3,
+        "amount": 3.0,
+        "category": "Fruits",
+        "date": "12.04.2026",
+        "transaction_type": "expense",
+        "description": "lol"
+    }
+]
